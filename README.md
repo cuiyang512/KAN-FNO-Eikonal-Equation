@@ -21,7 +21,7 @@ Seismic traveltime is a fundamental tool for exploring the Earth's interior stru
 
 ## Reference
     Yang Cui, Umair Bin Waheed, Chao Song, and Yangkang Chen (2025). KFNOEikonal: Integrating Kolmogorov-Arnold Network with Fourier Neural Operator for Seismic Traveltime Computation. TBD.
-    Cui, Yang, Umair Bin Waheed, Chao SOng, and Yangkang Chen. "Leveraging Kolmogorov-Arnold Network Empowered Fourier Neural Operator to Solve Eikonal Equation." SEG International Exposition and Annual Meeting. SEG, 2025.
+    Cui, Yang, Umair Bin Waheed, Chao Song, and Yangkang Chen. "Leveraging Kolmogorov-Arnold Network Empowered Fourier Neural Operator to Solve Eikonal Equation." SEG International Exposition and Annual Meeting. SEG, 2025.
 
 BibTex
 
