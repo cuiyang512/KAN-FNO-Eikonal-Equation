@@ -1,4 +1,4 @@
-# KAGN-FNO-Eikonal_Equation
+# KAN-FNO-Eikonal-Equation
 Leveraging Kolmogorov-Arnold Network Empowered Fourier Neural Operator to Solve Eikonal Equations
 
 This is an exmaple of using KFNO to sovle travel time equation. The velocity model is extracted from OpenFWI (CurveVel-A Family). 
