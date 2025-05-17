@@ -18,3 +18,44 @@ Seismic traveltime is a fundamental tool for exploring the Earth's interior stru
 ![Sources Distribution](Figs/marmousi_src_distributions_FNO_and_KAGFNO.png)
     2) Prediction comparison using different methods on different sources
 ![Sources Distribution](Figs/marmousi_comparison_FNO_and_KAGFNO_T_ep2000.png)
+
+## Reference
+    Yang Cui, Umair Bin Waheed, Chao Song, and Yangkang Chen (2025). KFNOEikonal: Integrating Kolmogorov-Arnold Network with Fourier Neural Operator for Seismic Traveltime Computation. TBD.
+    Cui, Yang, Umair Bin Waheed, Chao SOng, and Yangkang Chen. "Leveraging Kolmogorov-Arnold Network Empowered Fourier Neural Operator to Solve Eikonal Equation." SEG International Exposition and Annual Meeting. SEG, 2025.
+
+BibTex
+
+    @article{cui2025KFNOEikonal,
+      title={KFNOEikonal: Integrating Kolmogorov-Arnold Network with Fourier Neural Operator for Seismic Traveltime Computation},
+      author={Cui, Yang and Waheed, Umair Bin and Chao, Song and Chen, Yangkang},
+      journal={TBD},
+      year={2025},
+      publisher={TBD}
+    }
+    @inproceedings{cui2024kfno,
+      title={Leveraging Kolmogorov-Arnold Network Empowered Fourier Neural Operator to Solve Eikonal Equation},
+      author={Cui, Yang and Waheed, Umair Bin and Song, Chao and Chen, Yangkang},
+      booktitle={SEG International Exposition and Annual Meeting},
+      pages={SEG--2025},
+      year={2025},
+      organization={SEG}
+    }
+
+## Install 
+For set up the environment and install the dependency packages, please run the following script:
+    
+    conda create -n KFNOEikonal python=3.11.7
+    conda activate KFNOEikonal
+    conda install ipython notebook
+    pip install torch==2.5.1, pyekfmm
+
+## Development
+
+    The development team welcomes voluntary contributions from any open-source enthusiast. 
+    If you want to make contribution to this project, feel free to contact the development team. 
+    
+## Contact
+
+    Regarding any questions, bugs, developments, collaborations, please contact  
+    Yang Cui
+    yang.cui512@gmail.com
